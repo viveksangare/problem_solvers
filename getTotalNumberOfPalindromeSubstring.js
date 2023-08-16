@@ -34,7 +34,6 @@ const countSubstrings = (str) => {
             }
             placeholderArray = [];
         })
-        console.log(count);
         return count;
     } else {
         console.log("Enter string between 1-1000 charaters");
